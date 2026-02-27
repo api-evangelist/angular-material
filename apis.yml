@@ -1,0 +1,80 @@
+name: Angular Material
+description: Material Design components for Angular applications
+image: https://material.angular.io/assets/img/angular-material-logo.svg
+url: https://material.angular.io
+created: '2024-01-01'
+modified: '2024-01-01'
+tags:
+- Angular
+- Material Design
+- UI Components
+- Frontend
+- TypeScript
+apis:
+- name: Angular Material Components API
+  description: Comprehensive UI component library implementing Material Design
+  baseURL: https://material.angular.io
+  humanURL: https://material.angular.io/components/categories
+  image: https://material.angular.io/assets/img/angular-material-logo.svg
+  properties:
+  - type: Documentation
+    url: https://material.angular.io/components/categories
+  - type: Getting Started
+    url: https://material.angular.io/guide/getting-started
+  - type: API Reference
+    url: https://material.angular.io/components/
+  - type: GitHub Repository
+    url: https://github.com/angular/components
+  - type: NPM Package
+    url: https://www.npmjs.com/package/@angular/material
+  - type: Theming Guide
+    url: https://material.angular.io/guide/theming
+  - type: Accessibility
+    url: https://material.angular.io/guide/accessibility
+  - type: CDK Documentation
+    url: https://material.angular.io/cdk/categories
+  - type: StackBlitz Examples
+    url: https://stackblitz.com/@angular/collections/material
+  - type: Changelog
+    url: https://github.com/angular/components/blob/main/CHANGELOG.md
+  tags:
+  - Components
+  - Material Design
+  - UI Library
+  - Angular
+- name: Angular CDK (Component Dev Kit)
+  description: Behavior primitives for building UI components
+  baseURL: https://material.angular.io/cdk
+  humanURL: https://material.angular.io/cdk/categories
+  image: https://material.angular.io/assets/img/angular-material-logo.svg
+  properties:
+  - type: Documentation
+    url: https://material.angular.io/cdk/categories
+  - type: API Reference
+    url: https://material.angular.io/cdk/api
+  - type: GitHub Repository
+    url: https://github.com/angular/components
+  - type: NPM Package
+    url: https://www.npmjs.com/package/@angular/cdk
+  tags:
+  - CDK
+  - Component Development
+  - Utilities
+  - Angular
+maintainers:
+- name: Angular Team
+  url: https://github.com/angular
+  email: null
+  twitter: https://twitter.com/angular
+include: []
+common:
+- type: Website
+  url: https://material.angular.io
+- type: Blog
+  url: https://blog.angular.io
+- type: Twitter
+  url: https://twitter.com/angular
+- type: GitHub Organization
+  url: https://github.com/angular
+- type: License
+  url: https://github.com/angular/components/blob/main/LICENSE
