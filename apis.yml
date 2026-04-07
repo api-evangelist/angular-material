@@ -7,10 +7,10 @@ created: '2024-01-01'
 modified: '2024-01-01'
 tags:
   - Angular
-  - Material Design
-  - UI Components
   - Frontend
+  - Material Design
   - TypeScript
+  - UI Components
 apis:
   - name: Angular Material Components API
     description: >-
@@ -40,10 +40,10 @@ apis:
       - type: Changelog
         url: https://github.com/angular/components/blob/main/CHANGELOG.md
     tags:
+      - Angular
       - Components
       - Material Design
       - UI Library
-      - Angular
   - name: Angular CDK (Component Dev Kit)
     description: >-
       Behavior primitives for building UI components.
@@ -60,10 +60,10 @@ apis:
       - type: NPM Package
         url: https://www.npmjs.com/package/@angular/cdk
     tags:
+      - Angular
       - CDK
       - Component Development
       - Utilities
-      - Angular
 maintainers:
   - name: Angular Team
     url: https://github.com/angular
