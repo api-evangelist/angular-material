@@ -1,67 +1,80 @@
 # Angular Material (angular-material)
-Material Design components for Angular applications
 
-**URL:** [Visit APIs.json URL](https://material.angular.io)
+Angular Material is the official Material Design component library for Angular applications, maintained by the Angular team at Google. It provides over 30 accessible UI components implementing Material Design 3 (M3) with design tokens, a theming system based on CSS custom properties, and the Angular Component Dev Kit (CDK) with behavior primitives for custom component development. Angular Material is published on npm as @angular/material and @angular/cdk.
+
+**URL:** [https://raw.githubusercontent.com/api-evangelist/angular-material/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/angular-material/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Index
+- **Access:** Open Source
 
 ## Tags:
 
- - Angular, Material Design, UI Components, Frontend, TypeScript
+ - Accessibility, Angular, Frontend, Material Design, Material Design 3, Open Source, TypeScript, UI Components
 
 ## Timestamps
 
-- **Created:** 2024-01-01 
-- **Modified:** 2024-01-01 
+- **Created:** 2024-01-01
+- **Modified:** 2026-04-19
 
 ## APIs
 
 ### Angular Material Components API
-Comprehensive UI component library implementing Material Design
 
-**Human URL:** [https://material.angular.io/components/categories](https://material.angular.io/components/categories)
+Angular Material is a comprehensive UI component library implementing Material Design for Angular applications. Since Angular 18, Angular Material fully supports Material Design 3 (M3) with design tokens implemented as CSS custom properties, a powerful theming system with color, typography, and shape customization, and over 30 accessible UI components including buttons, cards, dialogs, forms, navigation, data tables, and more.
 
+**Human URL:** [https://material.angular.dev/components/categories](https://material.angular.dev/components/categories)
 
 #### Tags:
 
- - Components, Material Design, UI Library, Angular
+ - Accessibility, Angular, Components, Material Design, Material Design 3, TypeScript, UI Components
 
 #### Properties
 
-- [Documentation](https://material.angular.io/components/categories)
-- [Getting Started](https://material.angular.io/guide/getting-started)
-- [API Reference](https://material.angular.io/components/)
-- [GitHub Repository](https://github.com/angular/components)
-- [NPM Package](https://www.npmjs.com/package/@angular/material)
-- [Theming Guide](https://material.angular.io/guide/theming)
-- [Accessibility](https://material.angular.io/guide/accessibility)
-- [CDK Documentation](https://material.angular.io/cdk/categories)
-- [StackBlitz Examples](https://stackblitz.com/@angular/collections/material)
+- [Documentation](https://material.angular.dev/components/categories)
+- [GettingStarted](https://material.angular.dev/guide/getting-started)
+- [GitHub](https://github.com/angular/components)
+- [PackageRegistry](https://www.npmjs.com/package/@angular/material)
+- [Guide](https://material.angular.dev/guide/theming)
+- [Accessibility](https://material.angular.dev/guide/accessibility)
 - [Changelog](https://github.com/angular/components/blob/main/CHANGELOG.md)
 
-### Angular CDK (Component Dev Kit)
-Behavior primitives for building UI components
+### Angular CDK API
 
-**Human URL:** [https://material.angular.io/cdk/categories](https://material.angular.io/cdk/categories)
+The Angular Component Dev Kit (CDK) provides behavior primitives for building custom accessible UI components without Material Design styling. Includes overlay positioning, drag-and-drop, virtual scrolling, focus management, accessibility utilities, bidirectionality support, text field helpers, and clipboard utilities.
 
+**Human URL:** [https://material.angular.dev/cdk/categories](https://material.angular.dev/cdk/categories)
 
 #### Tags:
 
- - CDK, Component Development, Utilities, Angular
+ - Accessibility, CDK, Component Development, Drag And Drop, Overlay, Utilities, Virtual Scroll
 
 #### Properties
 
-- [Documentation](https://material.angular.io/cdk/categories)
-- [API Reference](https://material.angular.io/cdk/api)
-- [GitHub Repository](https://github.com/angular/components)
-- [NPM Package](https://www.npmjs.com/package/@angular/cdk)
+- [Documentation](https://material.angular.dev/cdk/categories)
+- [GitHub](https://github.com/angular/components)
+- [PackageRegistry](https://www.npmjs.com/package/@angular/cdk)
 
 ## Common Properties
 
-- [Website](https://material.angular.io)
-- [Blog](https://blog.angular.io)
-- [Twitter](https://twitter.com/angular)
-- [GitHub Organization](https://github.com/angular)
+- [Website](https://material.angular.dev/)
+- [GitHub](https://github.com/angular/components)
+- [Changelog](https://github.com/angular/components/blob/main/CHANGELOG.md)
+- [Blog](https://blog.angular.dev/)
+- [GettingStarted](https://material.angular.dev/guide/getting-started)
+- [Guide](https://material.angular.dev/guide/theming)
+- [Accessibility](https://material.angular.dev/guide/accessibility)
+- [PackageRegistry](https://www.npmjs.com/package/@angular/material)
+- [PackageRegistry](https://www.npmjs.com/package/@angular/cdk)
 - [License](https://github.com/angular/components/blob/main/LICENSE)
+- [Contributing](https://github.com/angular/components/blob/main/CONTRIBUTING.md)
+- [StackOverflow](https://stackoverflow.com/questions/tagged/angular-material)
+- [Discord](https://discord.gg/angular)
+- [X](https://twitter.com/angular)
 
 ## Maintainers
 
-**FN:** Angular Team
+**FN:** API Evangelist
+
+**Email:** info@apievangelist.com
