@@ -28,7 +28,7 @@ apis:
       - url: https://material.angular.dev/guide/accessibility
         type: Accessibility
       - url: https://github.com/angular/components/blob/main/CHANGELOG.md
-        type: Changelog
+        type: ChangeLog
     description: >-
       Angular Material is a comprehensive UI component library implementing
       Material Design for Angular applications. Since Angular 18, Angular Material
@@ -84,7 +84,7 @@ common:
     type: GitHub
   - url: https://github.com/angular/components/blob/main/CHANGELOG.md
     name: Changelog
-    type: Changelog
+    type: ChangeLog
   - url: https://blog.angular.dev/
     name: Angular Blog
     type: Blog
