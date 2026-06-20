@@ -11,7 +11,7 @@ apis:
       - Material Design 3
       - TypeScript
       - UI Components
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://material.angular.dev
     humanURL: https://material.angular.dev/components/categories
     properties:
@@ -46,7 +46,7 @@ apis:
       - Overlay
       - Utilities
       - Virtual Scroll
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://material.angular.dev/cdk
     humanURL: https://material.angular.dev/cdk/categories
     properties:
@@ -73,7 +73,7 @@ tags:
   - TypeScript
   - UI Components
 type: Index
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 access: Open Source
 common:
   - url: https://material.angular.dev/
