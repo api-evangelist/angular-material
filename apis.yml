@@ -118,7 +118,7 @@ common:
   - url: https://twitter.com/angular
     name: Angular on Twitter
     type: X
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://angular.dev/llms.txt
 created: '2024-01-01'
 modified: '2026-04-19'
