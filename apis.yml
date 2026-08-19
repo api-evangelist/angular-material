@@ -136,7 +136,7 @@ common:
     url: https://angular.dev/llms.txt
 created: '2024-01-01'
 modified: '2026-04-19'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 description: >-
   Angular Material is the official Material Design component library for Angular
   applications, maintained by the Angular team at Google. It provides over 30
