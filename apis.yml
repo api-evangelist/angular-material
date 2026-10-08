@@ -117,6 +117,12 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/angular-material.png
 access: Open Source
 common:
+  - type: Plans
+    url: plans/angular-material-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/angular-material-rate-limits.yml
+  - type: FinOps
+    url: finops/angular-material-finops.yml
   - type: DomainSecurity
     url: security/angular-material-domain-security.yml
   - url: https://material.angular.dev/
