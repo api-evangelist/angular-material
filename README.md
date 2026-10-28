@@ -1,4 +1,4 @@
-# Angular Material (angular-material)
+# Angular Material
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,79 +66,103 @@
 
 Angular Material is the official Material Design component library for Angular applications, maintained by the Angular team at Google. It provides over 30 accessible UI components implementing Material Design 3 (M3) with design tokens, a theming system based on CSS custom properties, and the Angular Component Dev Kit (CDK) with behavior primitives for custom component development. Angular Material is published on npm as @angular/material and @angular/cdk.
 
-**URL:** [https://raw.githubusercontent.com/api-evangelist/angular-material/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/angular-material/refs/heads/main/apis.yml)
+**Areas:** Accessibility · Angular · Frontend · Material Design · Material Design 3 · Open Source · TypeScript · UI Components
 
-## Scope
+## Angular Material on APIs.io
 
-- **Type:** Index
-- **Access:** Open Source
+Everything profiled for Angular Material is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/angular-material/](https://apis.io/providers/angular-material/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (2)
 
- - Accessibility, Angular, Frontend, Material Design, Material Design 3, Open Source, TypeScript, UI Components
+- [Angular Material Components API](https://apis.io/apis/angular-material/angular-material-components-api/) — Angular Material is a comprehensive UI component library implementing Material Design for Angular applications. Since Angular 18, Angular Material fully…
+- [Angular CDK API](https://apis.io/apis/angular-material/angular-cdk-api/) — The Angular Component Dev Kit (CDK) provides behavior primitives for building custom accessible UI components without Material Design styling. Includes…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-04-19
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### Angular Material Components API
+Authentication, trust centre, and vulnerability disclosure.
 
-Angular Material is a comprehensive UI component library implementing Material Design for Angular applications. Since Angular 18, Angular Material fully supports Material Design 3 (M3) with design tokens implemented as CSS custom properties, a powerful theming system with color, typography, and shape customization, and over 30 accessible UI components including buttons, cards, dialogs, forms, navigation, data tables, and more.
+- [Angular Material Domain Security](https://apis.io/security/angular-material/angular-material-domain-security/)
 
-**Human URL:** [https://material.angular.dev/components/categories](https://material.angular.dev/components/categories)
+#### Plans and pricing (1)
 
-#### Tags:
+Published plans, tiers and prices.
 
- - Accessibility, Angular, Components, Material Design, Material Design 3, TypeScript, UI Components
+- [Angular Material Plans Pricing](https://apis.io/plans/angular-material/angular-material-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://material.angular.dev/components/categories)
-- [GettingStarted](https://material.angular.dev/guide/getting-started)
-- [GitHub](https://github.com/angular/components)
-- [PackageRegistry](https://www.npmjs.com/package/@angular/material)
-- [Guide](https://material.angular.dev/guide/theming)
-- [Accessibility](https://material.angular.dev/guide/accessibility)
-- [Changelog](https://github.com/angular/components/blob/main/CHANGELOG.md)
+Published request limits.
 
-### Angular CDK API
+- [Angular Material Rate Limits](https://apis.io/rate-limits/angular-material/angular-material-rate-limits/)
 
-The Angular Component Dev Kit (CDK) provides behavior primitives for building custom accessible UI components without Material Design styling. Includes overlay positioning, drag-and-drop, virtual scrolling, focus management, accessibility utilities, bidirectionality support, text field helpers, and clipboard utilities.
+#### FinOps (1)
 
-**Human URL:** [https://material.angular.dev/cdk/categories](https://material.angular.dev/cdk/categories)
+What the API costs to run, by operation.
 
-#### Tags:
+- [Angular Material Finops](https://apis.io/finops/angular-material/angular-material-finops/)
 
- - Accessibility, CDK, Component Development, Drag And Drop, Overlay, Utilities, Virtual Scroll
+## Where to find this API
 
-#### Properties
-
-- [Documentation](https://material.angular.dev/cdk/categories)
-- [GitHub](https://github.com/angular/components)
-- [PackageRegistry](https://www.npmjs.com/package/@angular/cdk)
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://material.angular.dev/)
-- [GitHub](https://github.com/angular/components)
+- [Getting started](https://material.angular.dev/guide/getting-started)
 - [Changelog](https://github.com/angular/components/blob/main/CHANGELOG.md)
 - [Blog](https://blog.angular.dev/)
-- [GettingStarted](https://material.angular.dev/guide/getting-started)
-- [Guide](https://material.angular.dev/guide/theming)
-- [Accessibility](https://material.angular.dev/guide/accessibility)
-- [PackageRegistry](https://www.npmjs.com/package/@angular/material)
-- [PackageRegistry](https://www.npmjs.com/package/@angular/cdk)
-- [License](https://github.com/angular/components/blob/main/LICENSE)
-- [Contributing](https://github.com/angular/components/blob/main/CONTRIBUTING.md)
-- [StackOverflow](https://stackoverflow.com/questions/tagged/angular-material)
-- [Discord](https://discord.gg/angular)
-- [X](https://twitter.com/angular)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** API Evangelist
+**Kin Score 15.6** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** info@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 28.9 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/angular-material/](https://apis.io/providers/angular-material/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Angular Material: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/angular-material/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
